@@ -5,7 +5,7 @@ This project focuses on predicting customer churn using supervised machine learn
 
 The objective of this project is to build, evaluate, and compare multiple classification models to identify customers who are likely to churn and to extract actionable insights that can support retention strategies.
 
-## 🎯 Tujuan
+## 🎯 Business Problem
 Customer churn directly impacts revenue and long-term business sustainability. By identifying high-risk customers early, companies can:
 
 - Design targeted retention campaigns
@@ -23,7 +23,7 @@ This project simulates a real-world churn analysis workflow commonly encountered
   - Product usage behavior (Number of Products, Active Status)
  
 ## Project Structure
-binary-classification-churn/
+```binary-classification-churn/
 ├── notebooks/
 │   └── 1_churn_classification.ipynb
 |   └── 2_churn_classification(Refractored).ipynb
@@ -35,6 +35,7 @@ binary-classification-churn/
 │   └── churn_model.pkl
 ├── README.md
 └── requirements.txt
+```
 
 * notebooks/ : Exploratory analysis and narrative workflow
 * src/ : Reusable core logic for preprocessing, modeling, and evaluation
@@ -86,12 +87,13 @@ These metrics were chosen to ensure balanced evaluation beyond accuracy alone.
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+```
+## OR
 
-### OR
-
-'''Python
+```Python
 !git clone https://github.com/your-username/binary-classification-churn.git
 %cd binary-classification-churn
+```
 
 ## Author
 Rifqi Ambari
