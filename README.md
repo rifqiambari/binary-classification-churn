@@ -1,7 +1,7 @@
 # Klasifikasi-Biner-Churn / Prediksi Customer yang Berhenti Berlangganan
 
 ## 📌 Gambaran Umum Proyek
-Proyek ini bertujuan untuk membangun model klasifikasi biner untuk memprediksi apakah pelanggan akan berhenti berlangganan atau tidak berdasarkan data historis.
+Proyek ini bertujuan untuk membangun model klasifikasi biner untuk memprediksi apakah pelanggan akan berhenti berlangganan atau tidak berdasarkan data pelanggan yang berhenti (Exited) dan tidak.
 
 ## 🎯 Tujuan
 - Memahami perilaku pelanggan yang berhenti berlangganan (churn)
@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk membangun model klasifikasi biner untuk memprediksi a
 - Mengevaluasi kinerja model menggunakan metrik yang sesuai
 
 ## 🗂 Dataset
-- Sumber: Dataset Dicoding
+- [Sumber: Dataset Dicoding](https://drive.google.com/uc?id=19IfOP0QmCHccMu8A6B2fCUpFqZwCxuzO)
 - Variabel target: `Churn/Exited`
 - Fitur termasuk demografi pelanggan dan perilaku penggunaan
 
