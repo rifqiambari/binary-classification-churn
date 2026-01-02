@@ -1,4 +1,4 @@
-# klasifikasi-biner-churn / Prediksi Customer yang Berhenti Berlangganan
+# Klasifikasi-Biner-Churn / Prediksi Customer yang Berhenti Berlangganan
 
 ## 📌 Gambaran Umum Proyek
 Proyek ini bertujuan untuk membangun model klasifikasi biner untuk memprediksi apakah pelanggan akan berhenti berlangganan atau tidak berdasarkan data historis.
