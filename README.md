@@ -13,13 +13,13 @@ Proyek ini bertujuan untuk membangun model klasifikasi biner untuk memprediksi a
 - Variabel target: `Churn/Exited`
 - Fitur termasuk demografi pelanggan dan perilaku penggunaan
 
-## ⚙️ Tumpukan Teknologi
+## ⚙️ Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
 
-## 🔬 Alur Kerja
+## 🔬 Workflow
 1. Pembersihan & Pra-pemrosesan Data
 2. Analisis Data Eksplorasi (EDA)
 3. Pelatihan Model
