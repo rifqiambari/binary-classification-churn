@@ -39,12 +39,6 @@ Proyek ini bertujuan untuk membangun model klasifikasi biner untuk memprediksi a
 3  Support Vector Machine (SVM)    0.8530   0.827815  0.318066  0.459559
 4              Naive Bayes (NB)    0.8285   0.681159  0.239186  0.354049
 
-## 📁 Struktur Repositori
-project/
-├── notebook.ipynb
-├── README.md
-└── requirements.txt
-
 
 ## 🚀 How to Run
 ```bash
