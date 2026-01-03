@@ -88,7 +88,7 @@ These metrics were chosen to ensure balanced evaluation beyond accuracy alone.
 pip install -r requirements.txt
 jupyter notebook
 ```
-## OR
+### OR
 
 ```Python
 !git clone https://github.com/your-username/binary-classification-churn.git
