@@ -58,7 +58,6 @@ This project simulates a real-world churn analysis workflow commonly encountered
 ## Models Evaluated
 
 The following models were trained and evaluated:
-* Logistic Regression
 * K-Nearest Neighbors (KNN)
 * Decision Tree
 * Random Forest
